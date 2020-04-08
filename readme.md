@@ -1,4 +1,6 @@
-### Windows 10激活工具
+### Windows 10 激活工具
+
+请下载 Windows10.7z
 
 下载后请使用 激活.cmd 选择版本激活
 
